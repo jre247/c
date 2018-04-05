@@ -1,0 +1,19 @@
+form .actions > .action {
+  text-align: right;
+}
+
+form .actions > .cancel {
+  position: relative;
+  top: 8px;
+}
+
+form .actions > .action > .create {
+  /*position: relative;
+  left: 40%;*/
+}
+
+form .actions .spinner {
+  position: relative;
+  bottom: 27px;
+  left: 10%;
+}

@@ -1,0 +1,83 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  overflow-y: scroll;
+}
+
+h3 {
+  font-family: sans-serif;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.app-spinner {
+  position: absolute;
+  top: 126px;
+  left: 46%;
+}
+
+.hide-breadcrumbs {
+  background-color: white;
+}
+
+.missing-env-variables {
+  display: none;
+}
+
+
+
+
+
+header .mdl-button {
+  color: white;
+}
+
+.integration-thumbnail {
+  height: 24px;
+  width: 24px;
+  padding-right: 10px;
+  display: inline-block;
+}
+
+.integration-icon {
+  width: 160px;
+  height: 65px;
+};
+
+
+#integrations .card {
+  display: inline-block;
+  margin-right: 3%;
+  min-height: inherit;
+  height: 180px;
+  width: 180px;
+  margin-bottom: 5%;
+  border-radius: 3px;
+};
+
+
+.sub-nav {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.mdl-navigation__link {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.mdl-navigation__link.sub-nav {
+  padding-top:0px;
+  padding-bottom: 0px;
+  padding-left: 20px;
+}
+
+.mdl-layout__drawer > .mdl-navigation > ul {
+  list-style:none;
+}
+
+.table-actions {
+  display: inline;
+}

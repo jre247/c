@@ -1,0 +1,22 @@
+#source-create .connection-icon {
+  width: 60px;
+  height: 60px;
+}
+
+#source-create .connection-icon:hover {
+  cursor: pointer;
+}
+
+#source-create {
+  width: 50%;
+  margin: 0 auto;
+}
+
+#source-create .action-buttons {
+  text-align: left;
+  margin-top: 30px;
+}
+
+#source-create form {
+  margin-top: 30px;
+}

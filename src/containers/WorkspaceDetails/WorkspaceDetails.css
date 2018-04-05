@@ -1,0 +1,99 @@
+.Home .lander {
+  padding: 80px 0;
+  text-align: center;
+}
+
+.Home .lander h1 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+}
+
+.Home .lander p {
+  color: #999;
+}
+
+.Home .lander div {
+  padding-top: 20px;
+}
+.Home .lander div a:first-child {
+  margin-right: 20px;
+}
+
+.Home .workspaces h4 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  overflow: hidden;
+  line-height: 1.5;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.Home .workspaces p {
+  color: #666;
+}
+
+#workspace-details .source > .connections,
+#workspace-details .source > .status-container {
+  text-align: left;
+}
+
+#workspace-details .source .list-group-item-heading {
+  text-align: left;
+  margin-left: 15px;
+}
+
+#workspace-details .source {
+  padding-bottom: 10px;
+  margin-left: 0px;
+}
+
+#workspace-details .source  .source-info {
+  text-align: left;
+}
+
+#workspace-details .sources-header {
+
+}
+
+#workspace-details .clock-icon {
+  width: 15px;
+
+}
+
+#workspace-details .frequency {
+  margin-left: 3px;
+}
+
+#workspace-details .source-title {
+  margin-top: 0px;
+}
+
+#workspace-details .add-source {
+  text-align: right;
+}
+
+#workspace-details .chart {
+  margin-top: 40px;
+}
+
+#workspace-details .search-input {
+  position: relative;
+  top: 6px;
+  width: 70%;
+  display: inline-block;
+}
+
+#workspace-details .search-input-label {
+  position: relative;
+  top: 5px;
+  margin-right: 10px;
+}
+
+#workspace-details .grid-actions .add {
+  background-color: #58ab58;
+  color: white;
+}
+
+#workspace-details #destinations {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}

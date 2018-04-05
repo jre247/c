@@ -1,0 +1,75 @@
+.grid-content {
+  margin-top: 20px;
+  color: black;
+  margin-bottom: 10px;
+}
+
+.grid-content .column {
+  color: black;
+}
+
+.spinner-area {
+  min-height: 392px;
+  position: relative;
+  top: 40%;
+}
+
+.grid-content .header {
+  border-top: 1px solid lightgray;
+  border-right: 1px solid lightgray;
+  border-left: 1px solid lightgray;
+  padding: 5px;
+}
+
+.grid-content .grid-footer-actions {
+  border-left: 1px solid lightgray;
+  border-right: 1px solid lightgray;
+  border-bottom: 1px solid lightgray;
+  padding: 10px;
+}
+
+.column-header {
+  border-left: 1px solid lightgray;
+  border-right: 1px solid lightgray;
+  border-bottom: 1px solid lightgray;
+  border-top: 1px solid lightgray;
+  padding: 10px;
+}
+
+.hidden-column-header {
+  border-top: 1px solid lightgray;
+}
+
+.grid-row {
+  border-left: 1px solid lightgray;
+  border-right: 1px solid lightgray;
+  border-bottom: 1px solid lightgray;
+  padding: 10px;
+}
+
+.grid-row:hover {
+  background-color: #f1f1f1;
+}
+
+.grid-row > .row,
+.grid-row > .row > .column > .row {
+  display: flex;
+  align-items: center;
+}
+
+.grid-content .row-link {
+  cursor: pointer;
+}
+
+.grid-content .row-link:hover {
+  text-decoration: none;
+}
+
+.grid-content .connection-icon,
+.grid-content .status {
+  margin: 0 auto;
+}
+
+.grid-actions {
+  margin-bottom: 15px;
+}

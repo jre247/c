@@ -1,0 +1,17 @@
+
+<svg width="70px" height="76px" viewBox="0 0 70 76" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="aws-redshift" transform="translate(0.000000, -24.000000)">
+            <polyline id="Fill-1" fill="#518ABB" points="63.471 35.015 69.165 37.769 69.165 86.085 63.471 88.836 54.455 62 63.471 35.015"></polyline>
+            <polyline id="Fill-2" fill="#285285" points="6.529 35.015 0.835 37.769 0.835 86.085 6.529 88.836 20.765 62 6.529 35.015"></polyline>
+            <polyline id="Fill-3" fill="#285285" points="35 81.886 63.471 88.821 63.471 35.015 35 41.954 35 81.886"></polyline>
+            <polyline id="Fill-4" fill="#518ABB" points="35 81.886 6.529 88.821 6.529 35.015 35 41.954 35 81.886"></polyline>
+            <polyline id="Fill-5" fill="#518ABB" points="41.833 99.581 52.715 94.151 52.715 29.849 41.833 24.419 31.016 60.163 41.833 99.581"></polyline>
+            <polyline id="Fill-6" fill="#285285" points="28.167 99.581 17.286 94.151 17.286 29.849 28.167 24.419 37.847 62 28.167 99.581"></polyline>
+            <polygon id="Fill-7" fill="#3469A3" points="28.167 99.582 41.833 99.582 41.833 24.419 28.167 24.419"></polygon>
+        </g>
+    </g>
+</svg>

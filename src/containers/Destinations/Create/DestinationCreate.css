@@ -1,0 +1,22 @@
+#destination-create .connection-icon {
+  width: 60px;
+  height: 60px;
+}
+
+#destination-create .connection-icon:hover {
+  cursor: pointer;
+}
+
+#destination-create {
+  width: 50%;
+  margin: 0 auto;
+}
+
+#destination-create .action-buttons {
+  text-align: left;
+  margin-top: 30px;
+}
+
+#destination-create form {
+  margin-top: 30px;
+}

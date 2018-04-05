@@ -1,0 +1,11 @@
+#source-details .details {
+  margin-bottom: 3%;
+}
+
+#source-details .details  .column {
+  text-align: left;
+}
+
+#source-details .details > .row{
+  max-width: 600px;
+}
